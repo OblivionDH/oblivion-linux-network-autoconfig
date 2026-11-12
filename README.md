@@ -1,4 +1,21 @@
-# OD&H Linux Network Auto Config
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-linux-network-autoconfig/main/.github/banner.png" alt="Oblivion Linux Network Autoconfig — by Oblivion" width="100%"></a>
+</p>
+
+<h1 align="center">Oblivion Linux Network Autoconfig</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Auto-configure Linux networking: detect the distro, check connectivity, and flush or reset interfaces automatically. By Oblivion.</b></p>
+
+<p align="center">`linux` · `networking` · `network-configuration` · `automation` · `sysadmin` · `devops`</p>
+
+---
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.6+-blue.svg)]()
@@ -6,13 +23,13 @@
 
 > _"Because if you're still wrestling with Windows for networking... well, there's a better way."_
 
-**A comprehensive and automated network diagnostic and utility suite for Linux systems, brought to you by Oblivion Development & Hosting (OD&H).**
+**A comprehensive and automated network diagnostic and utility suite for Linux systems, brought to you by Oblivion (Oblivion).**
 
 * * *
 
 ## 🧠 About
 
-**OD&H Linux Network Auto Config** is an advanced, no-nonsense Python-based utility developed by **Oblivion Development & Hosting (OD&H)** to empower Linux users with streamlined, automated network troubleshooting and optimization.  Tired of endless manual debugging and cryptic error messages? This suite handles detection, diagnostics, and utility setup so you can spend less time troubleshooting and more time actually using your network.
+**Oblivion Linux Network Auto Config** is an advanced, no-nonsense Python-based utility developed by **Oblivion (Oblivion)** to empower Linux users with streamlined, automated network troubleshooting and optimization.  Tired of endless manual debugging and cryptic error messages? This suite handles detection, diagnostics, and utility setup so you can spend less time troubleshooting and more time actually using your network.
 
 * * *
 
@@ -26,7 +43,7 @@
 
 ✅ **Automatic Dependency Installer** — Ensures key network tools are present (requires root). Say goodbye to dependency hell.
 
-✅ **OD&H Branding** — Built with consistency and professionalism in mind. It’s so professional, it practically wears a suit.
+✅ **Oblivion Branding** — Built with consistency and professionalism in mind. It’s so professional, it practically wears a suit.
 
 ⚠️ **IP Changing Placeholder** — Not implemented. Use a VPN or Tor, not amateur hacks that'll break everything.
 
@@ -51,8 +68,8 @@
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/ivanbg2004/odh-linux-network-auto-config
-    cd odh-linux-network-auto-config
+    git clone https://github.com/ivanbg2004/oblivion-linux-network-autoconfig
+    cd oblivion-linux-network-autoconfig
     ```
 
 2.  **Execute Permissions:**
@@ -98,7 +115,7 @@ Currently, configuration is managed within the script. Future releases may offer
 *   **IP Address Handling:** Direct IP address modification is a placeholder and **NOT functional**. A VPN/Tor is highly recommended.
 *   **Distribution Scope:** Compatibility is not guaranteed across all Linux distributions.
 *   **Limited Guarantees:** The script is provided AS-IS with no guarantees. Review the code before execution.
-*   **OD&H Disclaimer:** Oblivion Development & Hosting is not liable for any issues caused by using this tool.
+*   **Oblivion Disclaimer:** Oblivion is not liable for any issues caused by using this tool.
 
 ## 🐧 Supported Distributions
 
@@ -143,9 +160,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions, bug reports, or general inquiries, reach out to Oblivion Development & Hosting via our website: [https://odh.ivan-vcard.xyz](https://odh.ivan-vcard.xyz)
+For questions, bug reports, or general inquiries, reach out to Oblivion via our website: [https://odh.ivan-vcard.xyz](https://odh.ivan-vcard.xyz)
 
 ---
 
-Developed with ❤️ by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by [Oblivion Development & Hosting](https://odh.ivan-vcard.xyz) 6 years later.
-Oblivion Development & Hosting is a Linux-first company, but we reluctantly support other platforms.
+Developed with ❤️ by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by [Oblivion](https://odh.ivan-vcard.xyz) 6 years later.
+Oblivion is a Linux-first company, but we reluctantly support other platforms.
+
+
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: linux, networking, network-configuration, automation, sysadmin, devops, bash, python, homelab.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
